@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #222222;
+}
+
+h1 {
+  color: #1b2a4a;
+}
+
+.profile-img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+}
