@@ -3,7 +3,7 @@ body {
   color: #222222;
 }
 
-h1 {
+h1, h2, h3 {
   color: #1b2a4a;
 }
 
@@ -12,3 +12,14 @@ h1 {
   height: 120px;
   object-fit: cover;
 }
+
+/* การ์ด portfolio ให้ดูมีขอบเรียบง่าย */
+.card {
+  border: 1px solid #dddddd;
+}
+
+/* รูปหลักฐาน เช่น เกียรติบัตร */
+.certificate-img {
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+  margin-top: 0.5rem;
